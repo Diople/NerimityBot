@@ -1,0 +1,2 @@
+# NerimityBot
+Denemek amaçlı
